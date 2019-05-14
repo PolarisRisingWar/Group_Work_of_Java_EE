@@ -1,2 +1,0 @@
-# Group_Work_of_Java_EE
-2017-2018年第二学期的JavaEE课大作业
